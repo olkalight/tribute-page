@@ -1,2 +1,3 @@
-# tribute-page
-Tribute Page project for FreeCodeCamp certification
+## Tribute Page
+Second project for FreeCodeCamp certification 
+from Responsive Web Design
