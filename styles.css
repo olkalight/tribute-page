@@ -23,7 +23,7 @@
 body {
   font-family: Montserrat, sans-serif;
   font-size: 1rem;
-  background-color: #eee;
+  background-color: #e8ebed;
   margin: 0;
 }
 
@@ -32,7 +32,7 @@ body {
   max-width: 900px;
   padding: 15px;
   border-radius: 5px;
-  background: #eee;
+  background: #e8ebed;
 }
 
 .text-main {
@@ -120,11 +120,12 @@ body {
   position: absolute;
   bottom: 0;
   background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  background: rgba(0, 0, 0, 0.5);
+  /* Black see-through */
   color: #f1f1f1;
   width: 100%;
   transition: .5s ease;
-  opacity:0;
+  opacity: 0;
   color: white;
   font-size: 15px;
   padding: 20px;
@@ -156,10 +157,10 @@ a {
   text-decoration: none;
 }
 
-#other-pages {
-  font-size: 0.7rem;
-}
-
 a:visited {
   color: #74638f;
+}
+
+#other-pages {
+  font-size: 0.7rem;
 }
