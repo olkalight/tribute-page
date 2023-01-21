@@ -9,8 +9,20 @@
   text-align: center;
 }
 
+#title {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#description {
+  font-weight: 400;
+  font-size: 1rem;
+}
+
 body {
   font-family: Montserrat, sans-serif;
+  font-size: 1rem;
   background-color: #eee;
   margin: 0;
 }
@@ -23,8 +35,32 @@ body {
   background: #eee;
 }
 
+.text-main {
+  font-weight: 100;
+}
+
+.smaller-h {
+  margin-top: 90px;
+  margin-bottom: 50px;
+  font-weight: 550;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.gallery-type {
+  margin: 50px;
+  font-weight: 500;
+}
+
+#quote {
+  font-style: italic;
+  font-size: 0.9rem;
+  font-weight: 100;
+  text-align: center;
+  margin: 90px 0;
+}
+
 #image {
- 
   align-items: center;
   max-width: 100%;
   display: block;
@@ -36,7 +72,7 @@ body {
 
 #img-div {
   background: white;
-  padding: 15px;
+  padding: 30px;
   border-radius: 5px;
 }
 
