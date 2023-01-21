@@ -100,9 +100,7 @@ body {
 }
 
 #info {
-  background-color: white;
   padding: 10px;
-  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -114,12 +112,16 @@ body {
 }
 
 #info li {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   margin: 10 0px;
 }
 
 a {
   text-decoration: none;
+}
+
+#other-pages {
+  font-size: 0.7rem;
 }
 
 a:visited {
